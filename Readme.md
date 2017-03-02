@@ -9,11 +9,10 @@
 
 **Installation**
   * You'll need python3
-  * Pip3 is recommended for installing
-  * Clone this repository .
+  * Pip is recommended for installing
+
   ```
-  cd BroadCast
-  $ python3 setup.py install
+  $ pip install BroadCast
   ```
 
 **Usage**
