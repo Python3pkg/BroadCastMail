@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='BroadCast',
-    version= '1.0',
+    version= '1.1',
     description='A Python Package which can be used to BroadCast email .',
     author='Nishchith Shetty',
     author_email='inishchith@gmail.com',

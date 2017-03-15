@@ -1,3 +1,5 @@
 Changes in each version will be updated here .
 
-Current version : 1.0 
+Current version : 1.1
+
+- Changes: Added BroadCasting through saved list of email ids in files(.txt)

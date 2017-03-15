@@ -1,1 +1,1 @@
-from BroadCastMail import mail
+from BroadCastMai import mail

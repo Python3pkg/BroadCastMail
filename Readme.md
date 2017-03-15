@@ -1,6 +1,6 @@
 # BroadCastMail :outbox_tray:
 
-### A Python Package which can be used to BroadCast email .
+### A Python Package which can be used to BroadCast email (Added input through saved files) .
 
 **To-Add Features**
   * HTML Email .
